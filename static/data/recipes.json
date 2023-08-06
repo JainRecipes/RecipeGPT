@@ -1,0 +1,25 @@
+[{
+    "recipeName": "",
+    "imageURL": "",
+    "recipeURL": "",
+  
+    "ingredients": [
+      "water",
+      "pineapple",
+      "potato"
+    ],
+    "servings": 5
+  },
+  {
+    "recipeName": "",
+    "imageURL": "",
+    "recipeURL": "",
+  
+    "ingredients": [
+      "water",
+      "tomato",
+      "milk"
+    ],
+    "servings": 5
+  }
+  ]

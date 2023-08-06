@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block title %}Ingredients{% endblock %}
+
+{% block content %}
+<!-- <script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.411/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/Qdb2D4dGnCZo-iHu/scene.splinecode"></spline-viewer> -->
+
+<div class="container mt-4">
+    <h1 class = "text-center">Ingredients</h1>
+    <form>
+       <div class="align-self-center">
+          {% for ingredient in ingredients %}
+          <div class="form-check form-check-inline text-center">
+             <input class="form-check-input" type="checkbox" value="{{ ingredient }}" id="{{ ingredient }}" name="{{ ingredient }}">
+             <label class="form-check-label" for="{{ ingredient }}">
+             {{ ingredient|capitalize }}
+             </label>
+          </div>
+       </div>
+       {% endfor %}
+    </form>
+ </div>
+ <button type="submit" class="btn btn-primary mt-3">Submit</button>
+
+{% endblock %}
+
+

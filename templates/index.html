@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<div class="container d-flex h-100 text-center" style="min-height: 90vh">
+    <div class="row align-self-center w-100" >
+        <div class="col-6 mx-auto">
+            <div class="jumbotron">
+                <img src="../static/media/logo.png" style="max-width: 35%" alt="RecipeGPT Logo">
+                <h1 class="display-4 text-truncate">RecipeGPT</h1>
+                <h6>Easily find recipes based on what ingredients you have!</h6>
+                <p>Featuring {{numRecipes}}+ Homemade Jain Recipes</p>
+                <form action="/" method="post">
+                    <button type="submit"class="btn btn-primary">Show Ingredients</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
