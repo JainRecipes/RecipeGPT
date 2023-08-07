@@ -93,8 +93,7 @@ def parseData(data, filename):
         recipe_dict['ingredients'] = []  # empty list
         for ingredients_str in ingredients_match:
             # ingredients_str = ingredients_match.group(1)
-            ingredients = re.findall(r'\| (.*?)(?:(?<!\()/.*?)?(?:(?<!\\)/.*?)?\s*\|', ingredients_str)
-
+            ingredients = re.findall(r'\| (.*?)\s*\|.*\n', ingredients_str)
             for ingredient in ingredients:
                 cleaned_ingredient = re.sub(r'\s*\([^)]*\)', '', ingredient.strip())
                 if cleaned_ingredient.lower() != "ingredients":

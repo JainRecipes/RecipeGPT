@@ -1,1684 +1,1566 @@
 [
-    {
-      "title": "Aaloo Subzi",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-aaloo-subzi.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/aaloo-subzi/",
-      "ingredients": [
-        "Potatoes",
-        "Oil",
-        "Mustard seeds",
-        "Red chili powder",
-        "Turmeric powder",
-        "Coriander powder",
-        "Salt",
-        "Green coriander"
-      ]
-    },
-    {
-      "title": "Aam Rus",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-aam-rus.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/aam-rus/",
-      "ingredients": [
-        "Ripe mangos",
-        "Milk",
-        "Sugar"
-      ]
-    },
-    {
-      "title": "Baingan Bharta",
-      "serves": "2-4",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-baingan-bharta.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/baingan-bharta/",
-      "ingredients": [
-        "Eggplant",
-        "Onion",
-        "Tomatoes",
-        "Green peas",
-        "Green chili",
-        "Ginger",
-        "Oil",
-        "Hing",
-        "Cumin",
-        "Coriander powder",
-        "Turmeric",
-        "Red chili",
-        "Salt",
-        "Garam masala",
-        "Chopped cilantro"
-      ]
-    },
-    {
-      "title": "Bhel",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-bhel.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/bhel/",
-      "ingredients": [
-        "Puffed rice",
-        "Sev",
-        "Papadi",
-        "Chopped onions",
-        "Boiled and chopped potatoes",
-        "Fresh garlic chutney",
-        "Tamarind chutney",
-        "Coriander chutney",
-        "Black salt",
-        "Lemon juice",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Bhindi",
-      "serves": "2-4",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-bhindi.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/bhindi/",
-      "ingredients": [
-        "Okra",
-        "Oil",
-        "Hing",
-        "Cumin seeds",
-        "Coriander powder",
-        "Cayenne",
-        "Turmeric",
-        "Salt",
-        "Mango powder"
-      ]
-    },
-    {
-      "title": "Dosa",
-      "serves": "4-6",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-dosa.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/dosa/",
-      "ingredients": [
-        "Urad Daal",
-        "White rice",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Kaju Katli",
-      "makes": 20,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-kaju-katli.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/kaju-katli/",
-      "ingredients": [
-        "Cashew nuts",
-        "Sugar",
-        "Water"
-      ]
-    },
-    {
-      "title": "Kheer",
-      "serves": "4-6",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-kheer.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/kheer/",
-      "ingredients": [
-        "Rice",
-        "Whole milk",
-        "Sugar",
-        "Saffron",
-        "Crushed cardamom",
-        "Sliced almonds",
-        "Sliced pistachios",
-        "Butter"
-      ]
-    },
-    {
-      "title": "Lapsi",
-      "total-time": "35 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-lapsi.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/lapsi/",
-      "ingredients": [
-        "Butter",
-        "Broken wheat",
-        "Water",
-        "Jaggery"
-      ]
-    },
-    {
-      "title": "Matar Paneer",
-      "serves": "2-4",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-matar-paneer.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/matar-paneer/",
-      "ingredients": [
-        "Green peas",
-        "Tomatoes",
-        "Paneer",
-        "Oil",
-        "Onion",
-        "Hing",
-        "Cumin seeds",
-        "Bay leaves",
-        "Cinnamon stick",
-        "Ginger",
-        "Coriander powder",
-        "Turmeric",
-        "Chili powder",
-        "Paprika",
-        "Salt",
-        "Sugar",
-        "Cornstarch"
-      ]
-    },
-    {
-      "title": "Mathri",
-      "makes": 40,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-mathri.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/mathri/",
-      "ingredients": [
-        "All purpose flour",
-        "Cooking oil",
-        "Ajwain seeds",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Pani Puri",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-pani-puri.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/pani-puri/",
-      "ingredients": [
-        "Oil",
-        "Cream of wheat",
-        "Whole Wheat Flour",
-        "Club Soda"
-      ]
-    },
-    {
-      "title": "Rasgoola",
-      "makes": 12,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-rasgoola.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/rasgoola/",
-      "ingredients": [
-        "Milk",
-        "Vinegar",
-        "Sugar",
-        "Water"
-      ]
-    },
-    {
-      "title": "Roti",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-roti.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/roti/",
-      "ingredients": [
-        "Whole wheat flour",
-        "Salt",
-        "Water",
-        "Ghee",
-        "Whole wheat flour"
-      ]
-    },
-    {
-      "title": "Sambar",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-sambar.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/sambar/",
-      "ingredients": [
-        "Toor daal",
-        "Salt",
-        "Turmeric",
-        "Onion",
-        "Oil",
-        "Cumin seeds",
-        "Fenugreek seeds",
-        "Mustard seeds",
-        "Hing",
-        "Curry leaves",
-        "Red chilies",
-        "Tomato",
-        "Mixed vegetables",
-        "Tamarind pulp",
-        "Salt",
-        "Sambar powder"
-      ]
-    },
-    {
-      "title": "Samosa",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-samosa.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/samosa/",
-      "ingredients": [
-        "All purpose flour",
-        "Vegetable Oil",
-        "Boiled large potatoes",
-        "Chopped onion",
-        "Chopped green chilies",
-        "Grated Ginger",
-        "Coriander Seed",
-        "Chopped Cilantro",
-        "Lemon juice",
-        "Turmeric",
-        "Garam Masala",
-        "Chili powder",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Shakkar Para",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-shakkar-para.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/shakkar-para/",
-      "ingredients": [
-        "All Purpose Flour",
-        "Fine sooji",
-        "Oil",
-        "Water",
-        "Sugar",
-        "Water"
-      ]
-    },
-    {
-      "title": "Sooji Halwa",
-      "serves": "8-10",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-sooji-halwa.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/18/sooji-halwa/",
-      "ingredients": [
-        "Cream of wheat",
-        "Sugar",
-        "Butter",
-        "Whole milk",
-        "Almonds",
-        "Cardamom seeds",
-        "Saffron"
-      ]
-    },
-    {
-      "title": "6-Ingredient Vegan Chocolate Silk Pie",
-      "total-time": "2.5 hours",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-6-ingredient-vegan-chocolate-silk-pie.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/19/6-ingredient-vegan-chocolate-silk-pie/",
-      "ingredients": [
-        "Raw Walnuts",
-        "Unsweetened cocoa or cacao powder",
-        "Pitted Dates",
-        "Silken Tofu",
-        "Dairy-free semisweet chocolate chips",
-        "Light or full fat coconut milk"
-      ]
-    },
-    {
-      "title": "Banana Bread",
-      "total-time": "70-90 minutes",
-      "makes": 24,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-banana-bread.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/19/banana-bread/",
-      "ingredients": [
-        "Ripe Bananas",
-        "All purpose flour",
-        "Wheat flour",
-        "Sugar",
-        "Salt",
-        "Baking Soda",
-        "Vegetable Oil",
-        "Orange juice",
-        "Nuts"
-      ]
-    },
-    {
-      "title": "Bhatura",
-      "makes": 4,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-bhatura.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/19/bhatura/",
-      "ingredients": [
-        "Self-rising flour",
-        "Rava",
-        "Salt",
-        "Yogurt",
-        "Water",
-        "Oil",
-        "Oil for deep frying"
-      ]
-    },
-    {
-      "title": "Brownies",
-      "total-time": "50-70 minutes",
-      "makes": 9,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-brownies.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/19/brownies/",
-      "ingredients": [
-        "All purpose flour",
-        "Granulated sugar",
-        "Unsweetened chocolate powder",
-        "Salt",
-        "Baking powder",
-        "Chocolate Chips",
-        "Water",
-        "Vegetable Oil",
-        "Vanilla extract"
-      ]
-    },
-    {
-      "title": "Chocolate Sour Cream Cupcakes",
-      "total-time": "35-40 minutes",
-      "makes": 12,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-chocolate-sour-cream-cupcakes.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/19/chocolate-sour-cream-cupcakes/",
-      "ingredients": [
-        "Unbleached all-purpose flour",
-        "Granulated sugar",
-        "Cocoa powder",
-        "Baking soda",
-        "Sour cream",
-        "Oil",
-        "Vanilla Extract",
-        "Club soda"
-      ]
-    },
-    {
-      "title": "Dal Dhokli",
-      "total-time": "50 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2022-01-16-daal-dhokli.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/19/dal-dhokli/",
-      "ingredients": [
-        "Ghee divided",
-        "Mustard seeds",
-        "Cumin seeds",
-        "Asafetida",
-        "Fresh curry leaves",
-        "Turmeric",
-        "Grated ginger",
-        "Grated garlic",
-        "Diced plum tomatoes",
-        "Red Chili powder",
-        "Jaggery",
-        "Tamarind paste",
-        "Salt",
-        "Peanuts",
-        "Toor dal",
-        "Water",
-        "Cilantro chopped for garnish",
-        "Whole wheat flour divided",
-        "Chickpea flour",
-        "Water",
-        "Salt",
-        "Carom seeds",
-        "Red chili powder",
-        "Turmeric",
-        "Oil divided"
-      ]
-    },
-    {
-      "title": "Magic Cookie Bars",
-      "total-time": "40 minutes",
-      "makes": 2,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-magic-cookie-bars.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/19/magic-cookie-bars/",
-      "ingredients": [
-        "Non-stick cooking spray",
-        "Graham Cracker crumbs",
-        "Melted butter",
-        "Sweetened Condensed Milk",
-        "Semi-sweet chocolate chips",
-        "Flaked coconut",
-        "Chopped Nuts"
-      ]
-    },
-    {
-      "title": "Pineapple Cream",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-pineapple-cream.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/19/pineapple-cream/",
-      "ingredients": [
-        "Cool Whip",
-        "Crushed Pineapple cans",
-        "Condensed milk",
-        "Cherry",
-        "Graham crackers",
-        "Butter"
-      ]
-    },
-    {
-      "title": "Carrot Cake",
-      "total-time": "70 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-25-carrot-cake.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/20/carrot-cake/",
-      "ingredients": [
-        "All purpose flour",
-        "Whole Wheat flour",
-        "Sugar",
-        "Brown sugar",
-        "Shredded carrots",
-        "Oil",
-        "Plain Yogurt",
-        "Vanilla Essence",
-        "Cinnamon powder",
-        "Cloves",
-        "Baking powder",
-        "Baking soda",
-        "Chopped walnuts, pecans, or almonds",
-        "Coconut flakes",
-        "Cream cheese",
-        "Butter",
-        "Powdered sugar",
-        "Vanilla extract",
-        "Lemon rind"
-      ]
-    },
-    {
-      "title": "Chocolate Mug Cake",
-      "total-time": "5 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-20-chocolate-mug-cake.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/20/chocolate-mug-cake/",
-      "ingredients": [
-        "All purpose flour",
-        "Sugar",
-        "Cocoa powder",
-        "Baking powder",
-        "Salt",
-        "Milk",
-        "Unsalted butter",
-        "Vanilla",
-        "Chocolate chips"
-      ]
-    },
-    {
-      "title": "Guacamole",
-      "total-time": "15 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-20-guacamole.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/20/guacamole/",
-      "ingredients": [
-        "Avocado",
-        "Tomato",
-        "Onion",
-        "Lemon",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Lauki Chana",
-      "total-time": "45 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-20-lauki-chana.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/20/lauki-chana/",
-      "ingredients": [
-        "Long squash",
-        "Chana Dal",
-        "Oil",
-        "Cumin seeds",
-        "Turmeric",
-        "Red chili powder",
-        "Tomato",
-        "Water",
-        "Salt",
-        "Asafoetida"
-      ]
-    },
-    {
-      "title": "Six-Minute Chocolate Cake",
-      "total-time": "1 hour 20 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-20-six-minute-chocolate-cake.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/20/six-minute-chocolate-cake/",
-      "ingredients": [
-        "Unbleached white flour",
-        "3 cups",
-        "Unsweetened cocoa powder",
-        "2",
-        "Baking soda",
-        "2 teaspoons",
-        "Salt",
-        "1 cup",
-        "Sugar",
-        "2 cups",
-        "Vegetable oil",
-        "1 cup",
-        "Cold water",
-        "2 cups",
-        "Pure vanilla extract",
-        "4 teaspoons",
-        "Vinegar",
-        "4 tablespoons",
-        "Bittersweet chocolate",
-        "Hot water, milk, or half-and-half",
-        "Pure vanilla extract"
-      ]
-    },
-    {
-      "title": "Cracked Wheat Pulao",
-      "total-time": "25 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-22-cracked-wheat-pulao.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/22/cracked-wheat-pulao/",
-      "ingredients": [
-        "Cracked wheat",
-        "Carrots",
-        "Peas",
-        "Garlic",
-        "Mixed vegetables",
-        "Onion",
-        "Oil",
-        "Bellpepper",
-        "Cumin seeds",
-        "Tomato",
-        "Turmeric",
-        "Red chili powder",
-        "Salt",
-        "Water",
-        "Lemon",
-        "Coriander"
-      ]
-    },
-    {
-      "title": "Pav Bhaji",
-      "total-time": "50-60 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-23-pav-bhaji.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/23/pav-bhaji/",
-      "ingredients": [
-        "Potato",
-        "Cauliflower",
-        "Carrots",
-        "Peas",
-        "Onion",
-        "Garlic",
-        "Tomato",
-        "Oil",
-        "Pav bhaji masala mix",
-        "Salt",
-        "Lemon",
-        "Coriander",
-        "Red onion",
-        "Water"
-      ]
-    },
-    {
-      "title": "Sabudana Khichadi",
-      "total-time": "490 minutes",
-      "serves": "2-3",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-23-sabudana-khichadi.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/23/sabudana-khichadi/",
-      "ingredients": [
-        "Sabudana",
-        "Boiled potato",
-        "Peanuts",
-        "Green chili",
-        "Ginger",
-        "Cumin Seeds",
-        "Sugar",
-        "Salt",
-        "Lemon juice",
-        "Coriander leaves",
-        "Ghee"
-      ]
-    },
-    {
-      "title": "Poha",
-      "total-time": "20-25 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-24-poha.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/24/poha/",
-      "ingredients": [
-        "Potato",
-        "Onion",
-        "Peas",
-        "Cumin seeds",
-        "Oil",
-        "Turmeric",
-        "Salt",
-        "Red Chili powder",
-        "Poha",
-        "Coriander",
-        "Lemon",
-        "Sev"
-      ]
-    },
-    {
-      "title": "Kadhi",
-      "total-time": "15-20 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-25-kadhi.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/25/kadhi/",
-      "ingredients": [
-        "Yogurt",
-        "Chickpea flour",
-        "Oil",
-        "Mustard seeds",
-        "Turmeric",
-        "Red chili powder",
-        "Hing",
-        "Curry leaves",
-        "Coriander leaves",
-        "Water"
-      ]
-    },
-    {
-      "title": "Noodles",
-      "total-time": "30-40 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-25-noodles.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/25/noodles/",
-      "ingredients": [
-        "Noodles packets",
-        "Garlic",
-        "Onions",
-        "Carrots",
-        "Green bellpepper",
-        "Red bellpepper",
-        "Mushrooms",
-        "Green onions",
-        "Soy Sauce",
-        "Schezwan Sauce",
-        "Broccoli",
-        "Oil"
-      ]
-    },
-    {
-      "title": "Vegetable Pulao",
-      "total-time": "30 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-25-vegetable-pulao.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/25/vegetable-pulao/",
-      "ingredients": [
-        "Rice",
-        "Carrots",
-        "Peas",
-        "Onion",
-        "Mix vegetables",
-        "Cumin seeds",
-        "Turmeric",
-        "Red chili powder",
-        "Oil",
-        "Hing",
-        "Coriander",
-        "Lemon",
-        "Water",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Corn Bhel",
-      "total-time": "10 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-30-corn-bhel.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/30/corn-bhel/",
-      "ingredients": [
-        "Corn",
-        "Red onions",
-        "Tomato",
-        "Coriander",
-        "Salt",
-        "Red chili powder",
-        "Fresh lemon",
-        "Sev"
-      ]
-    },
-    {
-      "title": "Dahi Papdi",
-      "total-time": "10 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-30-dahi-papdi.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/30/dahi-papdi/",
-      "ingredients": [
-        "Papdi",
-        "Boiled potatoes",
-        "Yogurt plain",
-        "Green chutney",
-        "Tamarind chutney",
-        "Salt",
-        "Red chili powder",
-        "Cumin powder",
-        "Fresh coriander"
-      ]
-    },
-    {
-      "title": "Hummus",
-      "total-time": "10 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-30-hummus.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/30/hummus/",
-      "ingredients": [
-        "Chickpeas can",
-        "Sandwich Toppers or chili peppers",
-        "Garlic",
-        "Salt",
-        "Olive oil",
-        "Roasted red peppers",
-        "Lemon juice"
-      ]
-    },
-    {
-      "title": "Enchiladas",
-      "total-time": "1 hour",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-31-enchiladas.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/31/enchiladas/",
-      "ingredients": [
-        "Carrots",
-        "Onions",
-        "Corn",
-        "Black Beans",
-        "Tortillas",
-        "Taco Seasoning",
-        "Enchilada sauce",
-        "Mexican cheese",
-        "Salt",
-        "Red chili powder",
-        "Oil"
-      ]
-    },
-    {
-      "title": "Rajma",
-      "total-time": "8.5 hours",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-31-rajma.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/31/rajma/",
-      "ingredients": [
-        "Red kidney beans",
-        "Oil",
-        "Onions",
-        "Tomato",
-        "Cumin seeds",
-        "Red chili powder",
-        "Asafoetida",
-        "Coriander",
-        "Salt",
-        "Turmeric",
-        "Coriander powder",
-        "Amchur powder",
-        "Water"
-      ]
-    },
-    {
-      "title": "Upma",
-      "total-time": "35-45 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-31-upma.jpg",
-      "link": "https://jainrecipes.github.io/2020/05/31/upma/",
-      "ingredients": [
-        "Peanuts",
-        "Urad daal",
-        "Onions",
-        "Raisins",
-        "Chana daal",
-        "Semolina",
-        "Curry leaves",
-        "Coriander leaves",
-        "Mustard seeds",
-        "Salt",
-        "Water",
-        "Green chili",
-        "Lemon"
-      ]
-    },
-    {
-      "title": "Smoothie",
-      "total-time": "5 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-06-smoothie.jpg",
-      "link": "https://jainrecipes.github.io/2020/06/06/smoothie/",
-      "ingredients": [
-        "Bananas",
-        "Strawberries",
-        "Dates",
-        "Sugar",
-        "Yogurt",
-        "Milk",
-        "Chia seeds"
-      ]
-    },
-    {
-      "title": "Idli",
-      "total-time": "8-10 hours + 20 minutes",
-      "makes": 30,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-07-idli.jpg",
-      "link": "https://jainrecipes.github.io/2020/06/07/idli/",
-      "ingredients": [
-        "Urad Daal",
-        "Idli Rava",
-        "Salt",
-        "Oil"
-      ]
-    },
-    {
-      "title": "Lasagna",
-      "total-time": "1 hour 30 minutes",
-      "makes": 1,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-08-lasagna.jpg",
-      "link": "https://jainrecipes.github.io/2020/06/08/lasagna/",
-      "ingredients": [
-        "Lasagna Noodles",
-        "Ricotta",
-        "Mozzarella Cheese",
-        "Marinara Sauce",
-        "Frozen spinach",
-        "Salt",
-        "Basil"
-      ]
-    },
-    {
-      "title": "Coconut Chutney",
-      "total-time": "15 minutes",
-      "makes": 0,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-09-coconut-chutney.jpg",
-      "link": "https://jainrecipes.github.io/2020/06/09/coconut-chutney/",
-      "ingredients": [
-        "Fresh or frozen coconut",
-        "Roasted chana dal",
-        "Green chili",
-        "Fresh coriander leaves",
-        "Cumin seeds",
-        "Salt",
-        "Water",
-        "Oil",
-        "Curry leaves",
-        "Mustard seeds",
-        "Red chili"
-      ]
-    },
-    {
-      "title": "Corn",
-      "total-time": "20 minutes",
-      "makes": 2,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-09-corn.jpg",
-      "link": "https://jainrecipes.github.io/2020/06/09/corn/",
-      "ingredients": [
-        "Fresh or frozen corn",
-        "Milk",
-        "Oil",
-        "Cumin seeds",
-        "Turmeric powder",
-        "Red chili powder",
-        "Coriander leaves"
-      ]
-    },
-    {
-      "title": "Palak Paneer",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-09-palak-paneer.jpg",
-      "link": "https://jainrecipes.github.io/2020/06/09/palak-paneer/"
-    },
-    {
-      "title": "Paratha",
-      "total-time": "30 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-09-paratha.jpg",
-      "link": "https://jainrecipes.github.io/2020/06/09/paratha/"
-    },
-    {
-      "title": "Poodla",
-      "total-time": "10 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-13-poodla.jpg",
-      "link": "https://jainrecipes.github.io/2020/06/13/poodla/",
-      "ingredients": [
-        "Handvo Mix",
-        "Yogurt",
-        "Water",
-        "Grated carrots",
-        "Grated squash",
-        "Oil"
-      ]
-    },
-    {
-      "title": "Quinoa",
-      "total-time": "17 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-14-quinoa.jpg",
-      "link": "https://jainrecipes.github.io/2020/06/14/quinoa/",
-      "ingredients": [
-        "Oil",
-        "Onions",
-        "Quinoa",
-        "Water",
-        "Mixed Vegetables",
-        "Cranberries",
-        "Cumin Seeds",
-        "Red chili powder",
-        "Turmeric",
-        "Salt",
-        "Black Beans"
-      ]
-    },
-    {
-      "title": "Khichdi",
-      "total-time": "25 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-28-khichdi.jpg",
-      "link": "https://jainrecipes.github.io/2020/06/28/khichdi/",
-      "ingredients": [
-        "Split green moong lentils",
-        "White Rice",
-        "Water",
-        "Oil",
-        "Cumin seeds",
-        "Onion",
-        "Tomato",
-        "Cilantro",
-        "Carrots",
-        "Green peas",
-        "Turmeric powder",
-        "Red chili powder",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Paneer Tikka",
-      "total-time": "35 minutes",
-      "makes": 5,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-07-04-paneer-tikka.jpg",
-      "link": "https://jainrecipes.github.io/2020/07/04/paneer-tikka/",
-      "ingredients": [
-        "Greek Yogurt",
-        "Oil",
-        "Coriander powder",
-        "Chaat masala",
-        "Garam masala",
-        "Red chili powder",
-        "Kasuri methi",
-        "Salt",
-        "Lemon juice",
-        "Cilantro",
-        "Mint",
-        "Paneer",
-        "Onion",
-        "Bell pepper",
-        "Cilantro mint chutney",
-        "Lemon wedges"
-      ]
-    },
-    {
-      "title": "Naan",
-      "total-time": "3 hours",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-07-06-naan.jpg",
-      "link": "https://jainrecipes.github.io/2020/07/06/Naan/",
-      "ingredients": [
-        "All purpose flour",
-        "Baking Soda",
-        "Baking Powder",
-        "Salt",
-        "Oil",
-        "Yogurt",
-        "Garlic grated",
-        "As required"
-      ]
-    },
-    {
-      "title": "Dhokla",
-      "total-time": "20 minutes",
-      "makes": 1,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-07-12-dhokla.jpg",
-      "link": "https://jainrecipes.github.io/2020/07/12/dhokla/",
-      "ingredients": [
-        "Seminola",
-        "Salt",
-        "Yogurt",
-        "Water",
-        "Eno soda",
-        "Green chili",
-        "Sesame seeds",
-        "Coriander leaves"
-      ]
-    },
-    {
-      "title": "Pancakes",
-      "total-time": "15 minutes",
-      "makes": 4,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-08-08-pancakes.jpg",
-      "link": "https://jainrecipes.github.io/2020/08/08/pancakes/",
-      "ingredients": [
-        "Whole Wheat Flour",
-        "Milk",
-        "Baking Powder",
-        "Vanilla Extract",
-        "Salt",
-        "Cinnamon",
-        "Honey",
-        "Chocolate Chips",
-        "Butter",
-        "Oil",
-        "Water"
-      ]
-    },
-    {
-      "title": "Dal Bati",
-      "total-time": "1 hour 30 minutes",
-      "makes": 4,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-08-16-dal-bati.jpg",
-      "link": "https://jainrecipes.github.io/2020/08/16/dal-bati/",
-      "ingredients": [
-        "Chana dal",
-        "Toor dal",
-        "Moong dal",
-        "Urad dal",
-        "Turmeric powder",
-        "Ginger",
-        "Salt",
-        "Coriander powder",
-        "Mango powder",
-        "Garam masala",
-        "Ghee",
-        "Cumin seeds",
-        "Asafetida",
-        "Chili powder",
-        "Dried, red chili broken",
-        "Whole wheat flour",
-        "Semolina",
-        "Baking powder",
-        "Salt",
-        "Butter",
-        "Milk",
-        "Butter"
-      ]
-    },
-    {
-      "title": "Loaded Sweet Potato",
-      "total-time": "1 hour 30 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-25-loaded-sweet-potato.jpg",
-      "link": "https://jainrecipes.github.io/2020/11/25/loaded-sweet-potato/",
-      "ingredients": [
-        "Medium Sweet Potatoes",
-        "Cooked Black Beans",
-        "Salsa",
-        "Shredded Cheese",
-        "Sour Cream",
-        "Guacamole"
-      ]
-    },
-    {
-      "title": "Pad Thai",
-      "total-time": "30-40 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-25-pad-thai.jpg",
-      "link": "https://jainrecipes.github.io/2020/11/25/pad-thai/",
-      "ingredients": [
-        "Tamarind paste",
-        "Soy Sauce",
-        "Sugar",
-        "Chili Garlic Sauce",
-        "Lime Juice",
-        "Olive Oil",
-        "Extra firm tofu, cubed",
-        "Garlic, minced",
-        "Bean Sprouts",
-        "Green onions, chopped",
-        "Roasted, salted peanuts",
-        "Pad Thai Rice Noodles"
-      ]
-    },
-    {
-      "title": "Thai Red Curry",
-      "total-time": "40 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-25-thai-red-curry.jpg",
-      "link": "https://jainrecipes.github.io/2020/11/25/thai-red-curry/",
-      "ingredients": [
-        "Brown Rice",
-        "Olive Oil",
-        "Onion",
-        "Salt",
-        "Ginger",
-        "Garlic minced",
-        "Red bellpepper",
-        "Yellow",
-        "Carrots",
-        "Thai Red Curry Paste",
-        "Coconut Milk",
-        "Water",
-        "Kale",
-        "Sugar",
-        "Soy Sauce",
-        "Rice Vinegar"
-      ]
-    },
-    {
-      "title": "Paneer Kathi Roll",
-      "total-time": "30 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-27-paneer-kathi-roll.jpg",
-      "link": "https://jainrecipes.github.io/2020/11/27/paneer-kathi-roll/",
-      "ingredients": [
-        "Paneer",
-        "Red Bellpepper",
-        "Green Bellpepper",
-        "Red Onion",
-        "Plain Yogurt",
-        "Ginger",
-        "Garlic",
-        "Red Chili Powder",
-        "Garam Masala",
-        "Turmeric",
-        "Kasoori methi",
-        "Salt",
-        "Kawan Parathas",
-        "Onion",
-        "Cilantro",
-        "Cilantro Chutney"
-      ]
-    },
-    {
-      "title": "16 Bean Soup",
-      "total-time": "10 hours",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-28-16-bean-soup.jpg",
-      "link": "https://jainrecipes.github.io/2020/11/28/16-bean-soup/",
-      "ingredients": [
-        "16 bean soup mix",
-        "Onion",
-        "Tomato",
-        "Carrots",
-        "Celery",
-        "Garlic",
-        "Potato",
-        "Oil",
-        "Salt",
-        "Red Chili Powder",
-        "Lemon juice"
-      ]
-    },
-    {
-      "title": "Steel Cut Oats",
-      "total-time": "30 minutes",
-      "serves": "2-3",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-28-steel-cut-oats.jpg",
-      "link": "https://jainrecipes.github.io/2020/11/28/steel-cut-oats/",
-      "ingredients": [
-        "Steel Cut Oats",
-        "Water",
-        "Milk",
-        "Sugar"
-      ]
-    },
-    {
-      "title": "Carrot Soup",
-      "total-time": "45 minutes",
-      "serves": "4-8",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-carrot-soup.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/18/carrot-soup/",
-      "ingredients": [
-        "Carrot",
-        "Tomatoes",
-        "Celery",
-        "Salt",
-        "Black Pepper"
-      ]
-    },
-    {
-      "title": "Kair Sangri",
-      "total-time": "9 hours",
-      "serves": "6-8",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-kair-sangri.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/18/kair-sangri/",
-      "ingredients": [
-        "Kair",
-        "Sangri",
-        "Cumin Seeds",
-        "Oil",
-        "Red Chili Powder",
-        "Turmeric Powder",
-        "Coriander Powder",
-        "Mango Powder"
-      ]
-    },
-    {
-      "title": "Ladi Pav",
-      "total-time": "2 hours + 20 minutes",
-      "makes": 8,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-ladi-pav.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/18/ladi-pav/",
-      "ingredients": [
-        "Milk",
-        "Sugar",
-        "Yeast",
-        "All Purpose Flour",
-        "Salt",
-        "Butter"
-      ]
-    },
-    {
-      "title": "Mushroom Matar",
-      "total-time": "45 minutes",
-      "serves": "4-6",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-mushroom-matar.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/18/mushroom-matar/",
-      "ingredients": [
-        "Vegetable oil",
-        "Cumin Seeds",
-        "Onion",
-        "Ginger",
-        "Turmeric powder",
-        "Red Chili Powder",
-        "Coriander Powder",
-        "Tomatoes",
-        "Raw cashews",
-        "Kasoori Methi",
-        "Cilantro",
-        "Mushrooms",
-        "Peas"
-      ]
-    },
-    {
-      "title": "Pizza Dough",
-      "total-time": "1.5 hours",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-pizza-dough.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/18/pizza-dough/",
-      "ingredients": [
-        "Active Dry Yeast",
-        "Sugar",
-        "Extra-virgin olive oil",
-        "Salt",
-        "Unbleached all purpose flour"
-      ]
-    },
-    {
-      "title": "Red Lentil Quinoa Soup",
-      "total-time": "45 minutes",
-      "serves": "4-6",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-red-lentil-quinoa-soup.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/18/red-lentil-quinoa-soup/",
-      "ingredients": [
-        "Red Lentils",
-        "Quinoa",
-        "Onion",
-        "Tomato",
-        "Carrots",
-        "Celery",
-        "Garlic",
-        "Squash",
-        "Oil",
-        "Salt",
-        "Red Chili Powder",
-        "Water",
-        "Tomato Paste",
-        "Spinach"
-      ]
-    },
-    {
-      "title": "Vegan Malai Kofta",
-      "total-time": "1 hour and 15 minutes",
-      "serves": "4-6",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-vegan-malai-kofta.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/18/vegan-malai-kofta/",
-      "ingredients": [
-        "Super firm tofu",
-        "Raw cashews",
-        "Potato",
-        "Red Chili Powder",
-        "Ginger",
-        "Cornstarch",
-        "Salt",
-        "Oil",
-        "Vegetable oil",
-        "Cumin Seeds",
-        "Onion",
-        "Ginger",
-        "Turmeric powder",
-        "Red Chili Powder",
-        "Coriander Powder",
-        "Tomatoes",
-        "Raw cashews",
-        "Kasoori Methi",
-        "Cilantro"
-      ]
-    },
-    {
-      "title": "Walnut Raisin Bread",
-      "total-time": "11 hours",
-      "makes": 1,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-walnut-raisin-bread.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/18/walnut-raisin-bread/",
-      "ingredients": [
-        "Unbleached Bread Flour",
-        "Whole Wheat Flour",
-        "Salt",
-        "Instant Yeast",
-        "Cool water",
-        "Dried cranberries",
-        "Raisins",
-        "Walnuts"
-      ]
-    },
-    {
-      "title": "Eggplant Parmesan",
-      "total-time": "1 hour",
-      "serves": "4-6",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-21-eggplant-parmesan.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/21/eggplant-parmesan/",
-      "ingredients": [
-        "Eggplants",
-        "Salt",
-        "Tomato Sauce",
-        "Mozzarella Cheese",
-        "Oil"
-      ]
-    },
-    {
-      "title": "Vegetable Cheese Sandwich",
-      "total-time": "20 minutes",
-      "makes": 4,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-22-vegetable-cheese-sandwich.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/22/vegetable-cheese-sandwich/",
-      "ingredients": [
-        "Bread slices",
-        "Butter",
-        "Mozzarella Cheese",
-        "Bellpepper",
-        "Tomato",
-        "Onion",
-        "Cucumber",
-        "Cilantro",
-        "Salt",
-        "Black Pepper"
-      ]
-    },
-    {
-      "title": "Braided Bread Sticks",
-      "total-time": "25 minutes",
-      "makes": 8,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-23-braided-bread-sticks.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/23/braided-bread-sticks/",
-      "ingredients": [
-        "Flour",
-        "Sugar",
-        "Baking Powder",
-        "Salt",
-        "Milk",
-        "Garlic Salt",
-        "Basil",
-        "Butter"
-      ]
-    },
-    {
-      "title": "Gnocchi",
-      "total-time": "45 minutes",
-      "serves": "4-6",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-23-gnocchi.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/23/gnocchi/",
-      "ingredients": [
-        "Gnocchi",
-        "Oil",
-        "Onion",
-        "Bellpepper",
-        "Mushrooms",
-        "Squash",
-        "Carrot",
-        "Garlic",
-        "Pasta Sauce",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Sugar Cookies",
-      "total-time": "1 hour",
-      "makes": 40,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-23-sugar-cookies.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/23/sugar-cookies/",
-      "ingredients": [
-        "Unsalted Butter",
-        "White Sugar",
-        "Vanilla Extract",
-        "Milk",
-        "All-purpose flour",
-        "Salt",
-        "Baking Powder"
-      ]
-    },
-    {
-      "title": "Tacos",
-      "total-time": "45 minutes",
-      "serves": "4-6",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-23-tacos.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/23/tacos/",
-      "ingredients": [
-        "Taco Shells",
-        "Salsa",
-        "Red Kidney Beans",
-        "Onions",
-        "Tomato",
-        "Cucumbers",
-        "Carrots",
-        "Lettuce",
-        "Bellpepper",
-        "Taco Seasoning",
-        "Oil",
-        "Salt",
-        "Lemon Juice"
-      ]
-    },
-    {
-      "title": "Chia Pudding",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-25-chia-pudding.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/25/chia-pudding/",
-      "ingredients": [
-        "Coconut Milk",
-        "Chia Seeds",
-        "Honey",
-        "Pure vanilla extract",
-        "Salt",
-        "Toppings - fruit, nuts"
-      ]
-    },
-    {
-      "title": "Acorn Squash with Quinoa",
-      "total-time": "45 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-27-acorn-squash-with-quinoa.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/27/acorn-squash-with-quinoa/",
-      "ingredients": [
-        "Acorn Squash",
-        "Olive Oil",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Burrito Bowl",
-      "total-time": "45 minutes",
-      "serves": "4-6",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-27-burrito-bowl.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/27/burrito-bowl/",
-      "ingredients": [
-        "Brown Rice",
-        "Onion",
-        "Bellpepper",
-        "Corn",
-        "Oil",
-        "Salt",
-        "Black Beans",
-        "Red Chili Powder",
-        "Salsa",
-        "Guacamole",
-        "Sour Cream",
-        "Mexican cheese"
-      ]
-    },
-    {
-      "title": "Falafel",
-      "total-time": "9 hours",
-      "serves": "4-6",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-27-falafel.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/27/falafel/",
-      "ingredients": [
-        "Olive oil",
-        "Chickpeas",
-        "Red Onion",
-        "Cilantro",
-        "Garlic",
-        "Salt",
-        "Red Chili Powder",
-        "Ground cumin",
-        "Onions",
-        "Tomato",
-        "Cucumbers",
-        "Carrots",
-        "Lettuce",
-        "Bellpepper"
-      ]
-    },
-    {
-      "title": "Udon Noodles",
-      "total-time": "1 hour",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-28-udon-noodles.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/28/udon-noodles/",
-      "ingredients": [
-        "Soy Sauce",
-        "Sugar",
-        "Oil",
-        "Garlic",
-        "Ginger",
-        "Tamarind paste",
-        "Sriracha",
-        "Broccoli",
-        "Bellpepper",
-        "Mushrooms",
-        "Carrot",
-        "Green Onions",
-        "Oil",
-        "Precooked Udon noodles packet",
-        "Sesame seeds"
-      ]
-    },
-    {
-      "title": "Kala Chana",
-      "total-time": "1 hour + 8 hours",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-29-kala-chana.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/29/kala-chana/",
-      "ingredients": [
-        "Black Chickpeas",
-        "Water",
-        "Oil",
-        "Cumin Seeds",
-        "Onion",
-        "Tomato",
-        "Ginger garlic paste",
-        "Water",
-        "Dry mango powder",
-        "Cilantro",
-        "Coriander powder",
-        "Red chili powder",
-        "Turmeric powder",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Aloo Paratha",
-      "total-time": "1 hour ",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-30-aloo-paratha.jpg",
-      "link": "https://jainrecipes.github.io/2020/12/30/aloo-paratha/",
-      "ingredients": [
-        "Potato",
-        "Red Chili Powder",
-        "Salt",
-        "Turmeric powder",
-        "Dry mango powder",
-        "Coriander leaves",
-        "Ghee",
-        "Wheat flour",
-        "Water"
-      ]
-    },
-    {
-      "title": "Whole Moong",
-      "total-time": "1 hour",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-03-05-wholemoong.jpg",
-      "link": "https://jainrecipes.github.io/2021/03/05/whole-moong/",
-      "ingredients": [
-        "Whole Moong",
-        "Water",
-        "Oil",
-        "Cumin Seeds",
-        "Tomato",
-        "Ginger garlic paste",
-        "Dry mango powder",
-        "Cilantro",
-        "Coriander powder",
-        "Red chili powder",
-        "Turmeric powder",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Homemade Icecream",
-      "total-time": "10 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2022-01-16-homemade-ice-cream.jpg",
-      "link": "https://jainrecipes.github.io/2021/05/12/homemade-icecream/",
-      "ingredients": [
-        "Heavy Cream",
-        "Condensed Milk",
-        "Vanilla Extract",
-        "Cocoa Powder"
-      ]
-    },
-    {
-      "title": "Rava Idli",
-      "total-time": "45 minutes",
-      "makes": 12,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2022-01-16-rava-idli.jpg",
-      "link": "https://jainrecipes.github.io/2021/05/12/rava-idli/",
-      "ingredients": [
-        "Seminola",
-        "Salt",
-        "Yogurt",
-        "Water",
-        "Eno soda"
-      ]
-    },
-    {
-      "title": "Rava Uttapam",
-      "total-time": "30 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2022-01-16-rava-uttapam.jpg",
-      "link": "https://jainrecipes.github.io/2021/05/12/rava-uttapam/",
-      "ingredients": [
-        "Seminola",
-        "Salt",
-        "Yogurt",
-        "Water",
-        "Grated Carrots",
-        "Oil"
-      ]
-    },
-    {
-      "title": "Split green moong dal",
-      "total-time": "30 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-07-25-split-green-moong-dal.jpg",
-      "link": "https://jainrecipes.github.io/2021/07/25/split-green-moong/",
-      "ingredients": [
-        "Split moong",
-        "Water",
-        "Oil",
-        "Cumin Seeds",
-        "Tomato",
-        "Cilantro",
-        "Red chili powder",
-        "Turmeric Powder",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Toor dal",
-      "total-time": "30 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-07-25-toor-dal.jpg",
-      "link": "https://jainrecipes.github.io/2021/07/25/toor-dal/",
-      "ingredients": [
-        "Toor Lentils",
-        "Water",
-        "Oil",
-        "Cumin Seeds",
-        "Tomato",
-        "Cilantro",
-        "Red chili powder",
-        "Turmeric Powder",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Aaloo subzi with gravy",
-      "total-time": "25 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-08-07-aaloo-subzi-with-gravy.jpg",
-      "link": "https://jainrecipes.github.io/2021/08/07/aaloo-subzi-with-gravy/",
-      "ingredients": [
-        "Oil",
-        "Cumin Seeds",
-        "Red Chili Powder",
-        "Turmeric Powder",
-        "Coriander Powder",
-        "Garam Masala",
-        "Asafoetida",
-        "Salt",
-        "Potatoes",
-        "Water",
-        "Tomato"
-      ]
-    },
-    {
-      "title": "Whole Masoor dal",
-      "total-time": "35 minutes",
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-08-07-whole-masoor-dal.jpg",
-      "link": "https://jainrecipes.github.io/2021/08/07/whole-masoor-dal/",
-      "ingredients": [
-        "Whole Masoor",
-        "Water",
-        "Oil",
-        "Cumin Seeds",
-        "Tomato",
-        "Cilantro",
-        "Red chili powder",
-        "Turmeric Powder",
-        "Salt"
-      ]
-    },
-    {
-      "title": "Lemon Blueberry Bread",
-      "total-time": "1.5 hours",
-      "makes": 1,
-      "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2022-02-26-lemon-blueberry-bread.jpg",
-      "link": "https://jainrecipes.github.io/2022/02/26/lemon-blueberry-bread/",
-      "ingredients": [
-        "All Purpose Flour",
-        "Baking Powder",
-        "Salt",
-        " Yogurt",
-        "Granulated Sugar",
-        "Flax",
-        "Lemon",
-        "Vanilla Extract",
-        "Oil",
-        "Blueberries"
-      ]
-    }
-  ]
+  {
+    "title": "Aaloo Subzi",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-aaloo-subzi.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/aaloo-subzi/",
+    "ingredients": [
+      "Potatoes",
+      "Oil",
+      "Mustard seeds",
+      "Red chili powder",
+      "Turmeric powder",
+      "Coriander powder",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Aam Rus",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-aam-rus.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/aam-rus/",
+    "ingredients": [
+      "Ripe mangos",
+      "Milk"
+    ]
+  },
+  {
+    "title": "Baingan Bharta",
+    "serves": "2-4",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-baingan-bharta.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/baingan-bharta/",
+    "ingredients": [
+      "Eggplant",
+      "Onion",
+      "Tomatoes",
+      "Green peas",
+      "Green chili",
+      "Ginger",
+      "Oil",
+      "Hing",
+      "Cumin",
+      "Coriander powder",
+      "Turmeric",
+      "Red chili",
+      "Salt",
+      "Garam masala"
+    ]
+  },
+  {
+    "title": "Bhel",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-bhel.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/bhel/",
+    "ingredients": [
+      "Puffed rice",
+      "Sev",
+      "Papadi",
+      "Chopped onions",
+      "Boiled and chopped potatoes",
+      "Fresh garlic chutney",
+      "Tamarind chutney",
+      "Coriander chutney",
+      "Black salt",
+      "Lemon juice"
+    ]
+  },
+  {
+    "title": "Bhindi",
+    "serves": "2-4",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-bhindi.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/bhindi/",
+    "ingredients": [
+      "Okra",
+      "Oil",
+      "Hing",
+      "Cumin seeds",
+      "Coriander powder",
+      "Cayenne",
+      "Turmeric",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Dosa",
+    "serves": "4-6",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-dosa.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/dosa/",
+    "ingredients": [
+      "Urad Daal",
+      "White rice"
+    ]
+  },
+  {
+    "title": "Kaju Katli",
+    "makes": 20,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-kaju-katli.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/kaju-katli/",
+    "ingredients": [
+      "Cashew nuts",
+      "Sugar"
+    ]
+  },
+  {
+    "title": "Kheer",
+    "serves": "4-6",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-kheer.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/kheer/",
+    "ingredients": [
+      "Rice",
+      "Whole milk",
+      "Sugar",
+      "Saffron",
+      "Crushed cardamom",
+      "Sliced almonds",
+      "Sliced pistachios"
+    ]
+  },
+  {
+    "title": "Lapsi",
+    "total-time": "35 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-lapsi.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/lapsi/",
+    "ingredients": [
+      "Butter / Ghee",
+      "Broken wheat",
+      "Water"
+    ]
+  },
+  {
+    "title": "Matar Paneer",
+    "serves": "2-4",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-matar-paneer.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/matar-paneer/",
+    "ingredients": [
+      "Green peas",
+      "Tomatoes",
+      "Paneer/tofu",
+      "Oil",
+      "Onion",
+      "Hing",
+      "Cumin seeds",
+      "Bay leaves",
+      "Cinnamon stick",
+      "Ginger",
+      "Coriander powder",
+      "Turmeric",
+      "Chili powder",
+      "Paprika",
+      "Salt",
+      "Sugar"
+    ]
+  },
+  {
+    "title": "Mathri",
+    "makes": 40,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-mathri.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/mathri/",
+    "ingredients": [
+      "All purpose flour",
+      "Cooking oil",
+      "Ajwain seeds"
+    ]
+  },
+  {
+    "title": "Pani Puri",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-pani-puri.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/pani-puri/",
+    "ingredients": [
+      "Oil",
+      "Cream of wheat",
+      "Whole Wheat Flour"
+    ]
+  },
+  {
+    "title": "Rasgoola",
+    "makes": 12,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-rasgoola.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/rasgoola/",
+    "ingredients": [
+      "Milk",
+      "Vinegar",
+      "Sugar"
+    ]
+  },
+  {
+    "title": "Roti",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-roti.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/roti/",
+    "ingredients": [
+      "Whole wheat flour",
+      "Salt",
+      "Water",
+      "Ghee"
+    ]
+  },
+  {
+    "title": "Sambar",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-sambar.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/sambar/",
+    "ingredients": [
+      "Toor daal",
+      "Salt",
+      "Turmeric",
+      "Onion",
+      "Oil",
+      "Cumin seeds",
+      "Fenugreek seeds",
+      "Mustard seeds",
+      "Hing",
+      "Curry leaves",
+      "Red chilies",
+      "Tomato",
+      "Mixed vegetables",
+      "Tamarind pulp",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Samosa",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-samosa.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/samosa/",
+    "ingredients": [
+      "All purpose flour",
+      "Vegetable Oil",
+      "Boiled large potatoes",
+      "Chopped onion",
+      "Chopped green chilies",
+      "Grated Ginger",
+      "Coriander Seed",
+      "Chopped Cilantro",
+      "Lemon juice",
+      "Turmeric",
+      "Garam Masala",
+      "Chili powder"
+    ]
+  },
+  {
+    "title": "Shakkar Para",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-shakkar-para.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/shakkar-para/",
+    "ingredients": [
+      "All Purpose Flour",
+      "Fine sooji",
+      "Oil",
+      "Water",
+      "Sugar"
+    ]
+  },
+  {
+    "title": "Sooji Halwa",
+    "serves": "8-10",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-18-sooji-halwa.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/18/sooji-halwa/",
+    "ingredients": [
+      "Cream of wheat",
+      "Sugar",
+      "Butter",
+      "Whole milk",
+      "Almonds",
+      "Cardamom seeds"
+    ]
+  },
+  {
+    "title": "6-Ingredient Vegan Chocolate Silk Pie",
+    "total-time": "2.5 hours",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-6-ingredient-vegan-chocolate-silk-pie.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/19/6-ingredient-vegan-chocolate-silk-pie/",
+    "ingredients": [
+      "Raw Walnuts",
+      "Unsweetened cocoa or cacao powder",
+      "Silken Tofu",
+      "Dairy-free semisweet chocolate chips"
+    ]
+  },
+  {
+    "title": "Banana Bread",
+    "total-time": "70-90 minutes",
+    "makes": 24,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-banana-bread.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/19/banana-bread/",
+    "ingredients": [
+      "Ripe Bananas",
+      "All purpose flour",
+      "Wheat flour",
+      "Sugar",
+      "Salt",
+      "Baking Soda",
+      "Vegetable Oil",
+      "Orange juice"
+    ]
+  },
+  {
+    "title": "Bhatura",
+    "makes": 4,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-bhatura.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/19/bhatura/",
+    "ingredients": [
+      "Self-rising flour",
+      "Rava",
+      "Salt",
+      "Yogurt",
+      "Water",
+      "Oil"
+    ]
+  },
+  {
+    "title": "Brownies",
+    "total-time": "50-70 minutes",
+    "makes": 9,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-brownies.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/19/brownies/",
+    "ingredients": [
+      "All purpose flour",
+      "Granulated sugar",
+      "Unsweetened chocolate powder",
+      "Salt",
+      "Baking powder",
+      "Chocolate Chips",
+      "Water",
+      "Vegetable Oil"
+    ]
+  },
+  {
+    "title": "Chocolate Sour Cream Cupcakes",
+    "total-time": "35-40 minutes",
+    "makes": 12,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-chocolate-sour-cream-cupcakes.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/19/chocolate-sour-cream-cupcakes/",
+    "ingredients": [
+      "Unbleached all-purpose flour",
+      "Granulated sugar",
+      "Cocoa powder",
+      "Baking soda",
+      "Sour cream",
+      "Oil",
+      "Vanilla Extract"
+    ]
+  },
+  {
+    "title": "Dal Dhokli",
+    "total-time": "50 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2022-01-16-daal-dhokli.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/19/dal-dhokli/",
+    "ingredients": [
+      "Ghee divided",
+      "Mustard seeds",
+      "Cumin seeds",
+      "Asafetida",
+      "Fresh curry leaves",
+      "Turmeric",
+      "Grated ginger",
+      "Grated garlic",
+      "Diced plum tomatoes",
+      "Red Chili powder",
+      "Jaggery",
+      "Tamarind paste",
+      "Salt",
+      "Peanuts",
+      "Toor dal",
+      "Water",
+      "Whole wheat flour divided",
+      "Chickpea flour",
+      "Water",
+      "Salt",
+      "Carom seeds",
+      "Red chili powder",
+      "Turmeric"
+    ]
+  },
+  {
+    "title": "Magic Cookie Bars",
+    "total-time": "40 minutes",
+    "makes": 2,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-magic-cookie-bars.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/19/magic-cookie-bars/",
+    "ingredients": [
+      "Non-stick cooking spray",
+      "Graham Cracker crumbs",
+      "Melted butter",
+      "Sweetened Condensed Milk",
+      "Semi-sweet chocolate chips",
+      "Flaked coconut"
+    ]
+  },
+  {
+    "title": "Pineapple Cream",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-19-pineapple-cream.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/19/pineapple-cream/",
+    "ingredients": [
+      "Cool Whip",
+      "Crushed Pineapple cans",
+      "Condensed milk",
+      "Graham crackers"
+    ]
+  },
+  {
+    "title": "Carrot Cake",
+    "total-time": "70 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-25-carrot-cake.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/20/carrot-cake/",
+    "ingredients": [
+      "All purpose flour",
+      "Whole Wheat flour",
+      "Sugar",
+      "Brown sugar",
+      "Shredded carrots",
+      "Oil",
+      "Plain Yogurt",
+      "Vanilla Essence",
+      "Cinnamon powder",
+      "Cloves",
+      "Baking powder",
+      "Baking soda",
+      "Chopped walnuts, pecans, or almonds",
+      "Cream cheese",
+      "Butter",
+      "Powdered sugar",
+      "Vanilla extract"
+    ]
+  },
+  {
+    "title": "Chocolate Mug Cake",
+    "total-time": "5 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-20-chocolate-mug-cake.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/20/chocolate-mug-cake/",
+    "ingredients": [
+      "All purpose flour",
+      "Sugar",
+      "Cocoa powder",
+      "Baking powder",
+      "Salt",
+      "Milk",
+      "Unsalted butter",
+      "Vanilla"
+    ]
+  },
+  {
+    "title": "Guacamole",
+    "total-time": "15 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-20-guacamole.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/20/guacamole/",
+    "ingredients": [
+      "Avocado",
+      "Tomato",
+      "Onion",
+      "Lemon"
+    ]
+  },
+  {
+    "title": "Lauki Chana",
+    "total-time": "45 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-20-lauki-chana.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/20/lauki-chana/",
+    "ingredients": [
+      "Long squash",
+      "Chana Dal",
+      "Oil",
+      "Cumin seeds",
+      "Turmeric",
+      "Red chili powder",
+      "Tomato",
+      "Water",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Six-Minute Chocolate Cake",
+    "total-time": "1 hour 20 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-20-six-minute-chocolate-cake.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/20/six-minute-chocolate-cake/",
+    "ingredients": [
+      "Unbleached white flour",
+      "Unsweetened cocoa powder",
+      "Baking soda",
+      "Salt",
+      "Sugar",
+      "Vegetable oil",
+      "Cold water",
+      "Pure vanilla extract",
+      "Bittersweet chocolate",
+      "Hot water, milk, or half-and-half"
+    ]
+  },
+  {
+    "title": "Cracked Wheat Pulao",
+    "total-time": "25 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-22-cracked-wheat-pulao.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/22/cracked-wheat-pulao/",
+    "ingredients": [
+      "Cracked wheat",
+      "Carrots",
+      "Peas",
+      "Garlic",
+      "Mixed vegetables",
+      "Onion",
+      "Oil",
+      "Bellpepper",
+      "Cumin seeds",
+      "Tomato",
+      "Turmeric",
+      "Red chili powder",
+      "Salt",
+      "Water",
+      "Lemon"
+    ]
+  },
+  {
+    "title": "Pav Bhaji",
+    "total-time": "50-60 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-23-pav-bhaji.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/23/pav-bhaji/",
+    "ingredients": [
+      "Potato",
+      "Cauliflower",
+      "Carrots",
+      "Peas",
+      "Onion",
+      "Garlic",
+      "Tomato",
+      "Oil/butter",
+      "Pav bhaji masala mix",
+      "Salt",
+      "Lemon",
+      "Coriander",
+      "Red onion"
+    ]
+  },
+  {
+    "title": "Sabudana Khichadi",
+    "total-time": "490 minutes",
+    "serves": "2-3",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-23-sabudana-khichadi.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/23/sabudana-khichadi/",
+    "ingredients": [
+      "Sabudana",
+      "Boiled potato",
+      "Peanuts",
+      "Green chili",
+      "Ginger",
+      "Cumin Seeds",
+      "Sugar",
+      "Salt",
+      "Lemon juice",
+      "Coriander leaves"
+    ]
+  },
+  {
+    "title": "Poha",
+    "total-time": "20-25 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-24-poha.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/24/poha/",
+    "ingredients": [
+      "Potato",
+      "Onion",
+      "Peas",
+      "Cumin seeds",
+      "Oil",
+      "Turmeric",
+      "Salt",
+      "Red Chili powder",
+      "Poha",
+      "Coriander",
+      "Lemon"
+    ]
+  },
+  {
+    "title": "Kadhi",
+    "total-time": "15-20 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-25-kadhi.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/25/kadhi/",
+    "ingredients": [
+      "Yogurt",
+      "Chickpea flour",
+      "Oil",
+      "Mustard seeds",
+      "Turmeric",
+      "Red chili powder",
+      "Hing",
+      "Curry leaves",
+      "Coriander leaves"
+    ]
+  },
+  {
+    "title": "Noodles",
+    "total-time": "30-40 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-25-noodles.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/25/noodles/",
+    "ingredients": [
+      "Noodles packets",
+      "Garlic",
+      "Onions",
+      "Carrots",
+      "Green bellpepper",
+      "Red bellpepper",
+      "Mushrooms",
+      "Green onions",
+      "Soy Sauce",
+      "Schezwan Sauce / Maggi packets",
+      "Broccoli"
+    ]
+  },
+  {
+    "title": "Vegetable Pulao",
+    "total-time": "30 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-25-vegetable-pulao.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/25/vegetable-pulao/",
+    "ingredients": [
+      "Rice",
+      "Carrots",
+      "Peas",
+      "Onion",
+      "Mix vegetables",
+      "Cumin seeds",
+      "Turmeric",
+      "Red chili powder",
+      "Oil",
+      "Hing",
+      "Coriander",
+      "Lemon",
+      "Water"
+    ]
+  },
+  {
+    "title": "Corn Bhel",
+    "total-time": "10 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-30-corn-bhel.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/30/corn-bhel/",
+    "ingredients": [
+      "Corn",
+      "Red onions",
+      "Tomato",
+      "Coriander",
+      "Salt",
+      "Red chili powder",
+      "Fresh lemon"
+    ]
+  },
+  {
+    "title": "Dahi Papdi",
+    "total-time": "10 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-30-dahi-papdi.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/30/dahi-papdi/",
+    "ingredients": [
+      "Papdi",
+      "Boiled potatoes",
+      "Yogurt plain",
+      "Green chutney",
+      "Tamarind chutney",
+      "Salt",
+      "Red chili powder",
+      "Cumin powder"
+    ]
+  },
+  {
+    "title": "Hummus",
+    "total-time": "10 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-30-hummus.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/30/hummus/",
+    "ingredients": [
+      "Chickpeas can",
+      "Sandwich Toppers or chili peppers",
+      "Garlic",
+      "Salt",
+      "Olive oil",
+      "Roasted red peppers"
+    ]
+  },
+  {
+    "title": "Enchiladas",
+    "total-time": "1 hour",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-31-enchiladas.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/31/enchiladas/",
+    "ingredients": [
+      "Carrots",
+      "Onions",
+      "Corn",
+      "Black Beans",
+      "Tortillas",
+      "Taco Seasoning",
+      "Enchilada sauce",
+      "Mexican cheese",
+      "Salt",
+      "Red chili powder"
+    ]
+  },
+  {
+    "title": "Rajma",
+    "total-time": "8.5 hours",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-31-rajma.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/31/rajma/",
+    "ingredients": [
+      "Red kidney beans",
+      "Oil",
+      "Onions",
+      "Tomato",
+      "Cumin seeds",
+      "Red chili powder",
+      "Asafoetida",
+      "Coriander",
+      "Salt",
+      "Turmeric",
+      "Coriander powder",
+      "Amchur powder"
+    ]
+  },
+  {
+    "title": "Upma",
+    "total-time": "35-45 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-05-31-upma.jpg",
+    "link": "https://jainrecipes.github.io/2020/05/31/upma/",
+    "ingredients": [
+      "Peanuts",
+      "Urad daal",
+      "Onions",
+      "Raisins",
+      "Chana daal",
+      "Semolina",
+      "Curry leaves",
+      "Coriander leaves",
+      "Mustard seeds",
+      "Salt",
+      "Water",
+      "Green chili"
+    ]
+  },
+  {
+    "title": "Smoothie",
+    "total-time": "5 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-06-smoothie.jpg",
+    "link": "https://jainrecipes.github.io/2020/06/06/smoothie/",
+    "ingredients": [
+      "Bananas",
+      "Strawberries",
+      "Dates",
+      "Sugar",
+      "Yogurt",
+      "Milk"
+    ]
+  },
+  {
+    "title": "Idli",
+    "total-time": "8-10 hours + 20 minutes",
+    "makes": 30,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-07-idli.jpg",
+    "link": "https://jainrecipes.github.io/2020/06/07/idli/",
+    "ingredients": [
+      "Urad Daal",
+      "Idli Rava",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Lasagna",
+    "total-time": "1 hour 30 minutes",
+    "makes": 1,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-08-lasagna.jpg",
+    "link": "https://jainrecipes.github.io/2020/06/08/lasagna/",
+    "ingredients": [
+      "Lasagna Noodles",
+      "Ricotta",
+      "Mozzarella Cheese",
+      "Marinara Sauce",
+      "Frozen spinach",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Coconut Chutney",
+    "total-time": "15 minutes",
+    "makes": 0,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-09-coconut-chutney.jpg",
+    "link": "https://jainrecipes.github.io/2020/06/09/coconut-chutney/",
+    "ingredients": [
+      "Fresh or frozen coconut",
+      "Roasted chana dal",
+      "Green chili",
+      "Fresh coriander leaves",
+      "Cumin seeds",
+      "Salt",
+      "Oil",
+      "Curry leaves",
+      "Mustard seeds"
+    ]
+  },
+  {
+    "title": "Corn",
+    "total-time": "20 minutes",
+    "makes": 2,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-09-corn.jpg",
+    "link": "https://jainrecipes.github.io/2020/06/09/corn/",
+    "ingredients": [
+      "Fresh or frozen corn",
+      "Milk",
+      "Oil",
+      "Cumin seeds",
+      "Turmeric powder",
+      "Red chili powder"
+    ]
+  },
+  {
+    "title": "Palak Paneer",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-09-palak-paneer.jpg",
+    "link": "https://jainrecipes.github.io/2020/06/09/palak-paneer/"
+  },
+  {
+    "title": "Paratha",
+    "total-time": "30 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-09-paratha.jpg",
+    "link": "https://jainrecipes.github.io/2020/06/09/paratha/"
+  },
+  {
+    "title": "Poodla",
+    "total-time": "10 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-13-poodla.jpg",
+    "link": "https://jainrecipes.github.io/2020/06/13/poodla/",
+    "ingredients": [
+      "Handvo Mix",
+      "Yogurt",
+      "Water",
+      "Grated carrots",
+      "Grated squash"
+    ]
+  },
+  {
+    "title": "Quinoa",
+    "total-time": "17 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-14-quinoa.jpg",
+    "link": "https://jainrecipes.github.io/2020/06/14/quinoa/",
+    "ingredients": [
+      "Oil",
+      "Onions",
+      "Quinoa",
+      "Water",
+      "Mixed Vegetables",
+      "Cranberries",
+      "Cumin Seeds",
+      "Red chili powder",
+      "Turmeric",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Khichdi",
+    "total-time": "25 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-06-28-khichdi.jpg",
+    "link": "https://jainrecipes.github.io/2020/06/28/khichdi/",
+    "ingredients": [
+      "Split green moong lentils",
+      "White Rice",
+      "Water",
+      "Oil",
+      "Cumin seeds",
+      "Onion",
+      "Tomato",
+      "Cilantro",
+      "Carrots",
+      "Green peas",
+      "Turmeric powder",
+      "Red chili powder"
+    ]
+  },
+  {
+    "title": "Paneer Tikka",
+    "total-time": "35 minutes",
+    "makes": 5,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-07-04-paneer-tikka.jpg",
+    "link": "https://jainrecipes.github.io/2020/07/04/paneer-tikka/",
+    "ingredients": [
+      "Greek Yogurt",
+      "Oil",
+      "Coriander powder",
+      "Chaat masala",
+      "Garam masala",
+      "Red chili powder",
+      "Kasuri methi",
+      "Salt",
+      "Lemon juice",
+      "Cilantro",
+      "Mint",
+      "Paneer",
+      "Onion",
+      "Bell pepper",
+      "Cilantro mint chutney"
+    ]
+  },
+  {
+    "title": "Naan",
+    "total-time": "3 hours",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-07-06-naan.jpg",
+    "link": "https://jainrecipes.github.io/2020/07/06/Naan/",
+    "ingredients": [
+      "All purpose flour",
+      "Baking Soda",
+      "Baking Powder",
+      "Salt",
+      "Oil",
+      "Yogurt",
+      "Garlic grated"
+    ]
+  },
+  {
+    "title": "Dhokla",
+    "total-time": "20 minutes",
+    "makes": 1,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-07-12-dhokla.jpg",
+    "link": "https://jainrecipes.github.io/2020/07/12/dhokla/",
+    "ingredients": [
+      "Seminola",
+      "Salt",
+      "Yogurt",
+      "Water",
+      "Eno soda",
+      "Green chili",
+      "Sesame seeds"
+    ]
+  },
+  {
+    "title": "Pancakes",
+    "total-time": "15 minutes",
+    "makes": 4,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-08-08-pancakes.jpg",
+    "link": "https://jainrecipes.github.io/2020/08/08/pancakes/",
+    "ingredients": [
+      "Whole Wheat Flour",
+      "Milk",
+      "Baking Powder",
+      "Vanilla Extract",
+      "Salt",
+      "Cinnamon",
+      "Honey",
+      "Chocolate Chips",
+      "Butter",
+      "Oil"
+    ]
+  },
+  {
+    "title": "Dal Bati",
+    "total-time": "1 hour 30 minutes",
+    "makes": 4,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-08-16-dal-bati.jpg",
+    "link": "https://jainrecipes.github.io/2020/08/16/dal-bati/",
+    "ingredients": [
+      "Chana dal",
+      "Toor dal",
+      "Moong dal",
+      "Urad dal",
+      "Turmeric powder",
+      "Ginger",
+      "Salt",
+      "Coriander powder",
+      "Mango powder",
+      "Ghee / Butter",
+      "Cumin seeds",
+      "Asafetida",
+      "Chili powder",
+      "Whole wheat flour",
+      "Semolina",
+      "Baking powder",
+      "Salt",
+      "Butter / Ghee"
+    ]
+  },
+  {
+    "title": "Loaded Sweet Potato",
+    "total-time": "1 hour 30 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-25-loaded-sweet-potato.jpg",
+    "link": "https://jainrecipes.github.io/2020/11/25/loaded-sweet-potato/",
+    "ingredients": [
+      "Medium Sweet Potatoes",
+      "Cooked Black Beans",
+      "Salsa",
+      "Shredded Cheese",
+      "Sour Cream"
+    ]
+  },
+  {
+    "title": "Pad Thai",
+    "total-time": "30-40 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-25-pad-thai.jpg",
+    "link": "https://jainrecipes.github.io/2020/11/25/pad-thai/",
+    "ingredients": [
+      "Tamarind paste / concentrate",
+      "Soy Sauce",
+      "Sugar",
+      "Chili Garlic Sauce / Sriracha",
+      "Olive Oil",
+      "Extra firm tofu, cubed",
+      "Garlic, minced",
+      "Bean Sprouts",
+      "Green onions, chopped"
+    ]
+  },
+  {
+    "title": "Thai Red Curry",
+    "total-time": "40 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-25-thai-red-curry.jpg",
+    "link": "https://jainrecipes.github.io/2020/11/25/thai-red-curry/",
+    "ingredients": [
+      "Brown Rice",
+      "Olive Oil",
+      "Onion",
+      "Salt",
+      "Ginger",
+      "Garlic minced",
+      "Red bellpepper",
+      "Yellow/Orange/Green bellpepper",
+      "Carrots",
+      "Thai Red Curry Paste",
+      "Coconut Milk",
+      "Water",
+      "Kale",
+      "Sugar",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "title": "Paneer Kathi Roll",
+    "total-time": "30 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-27-paneer-kathi-roll.jpg",
+    "link": "https://jainrecipes.github.io/2020/11/27/paneer-kathi-roll/",
+    "ingredients": [
+      "Paneer",
+      "Red Bellpepper",
+      "Green Bellpepper",
+      "Plain Yogurt",
+      "Ginger",
+      "Garlic",
+      "Red Chili Powder",
+      "Garam Masala",
+      "Turmeric",
+      "Kasoori methi",
+      "Kawan Parathas",
+      "Onion",
+      "Cilantro"
+    ]
+  },
+  {
+    "title": "16 Bean Soup",
+    "total-time": "10 hours",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-28-16-bean-soup.jpg",
+    "link": "https://jainrecipes.github.io/2020/11/28/16-bean-soup/",
+    "ingredients": [
+      "16 bean soup mix",
+      "Onion",
+      "Tomato",
+      "Carrots",
+      "Celery",
+      "Garlic",
+      "Potato",
+      "Oil",
+      "Salt",
+      "Red Chili Powder"
+    ]
+  },
+  {
+    "title": "Steel Cut Oats",
+    "total-time": "30 minutes",
+    "serves": "2-3",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-11-28-steel-cut-oats.jpg",
+    "link": "https://jainrecipes.github.io/2020/11/28/steel-cut-oats/",
+    "ingredients": [
+      "Steel Cut Oats",
+      "Water",
+      "Milk"
+    ]
+  },
+  {
+    "title": "Carrot Soup",
+    "total-time": "45 minutes",
+    "serves": "4-8",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-carrot-soup.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/18/carrot-soup/",
+    "ingredients": [
+      "Carrot",
+      "Tomatoes",
+      "Celery",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Kair Sangri",
+    "total-time": "9 hours",
+    "serves": "6-8",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-kair-sangri.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/18/kair-sangri/",
+    "ingredients": [
+      "Kair",
+      "Sangri",
+      "Cumin Seeds",
+      "Oil",
+      "Red Chili Powder",
+      "Turmeric Powder",
+      "Coriander Powder"
+    ]
+  },
+  {
+    "title": "Ladi Pav",
+    "total-time": "2 hours + 20 minutes",
+    "makes": 8,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-ladi-pav.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/18/ladi-pav/",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Yeast",
+      "All Purpose Flour",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Mushroom Matar",
+    "total-time": "45 minutes",
+    "serves": "4-6",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-mushroom-matar.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/18/mushroom-matar/",
+    "ingredients": [
+      "Vegetable oil",
+      "Cumin Seeds",
+      "Onion",
+      "Ginger",
+      "Turmeric powder",
+      "Red Chili Powder",
+      "Coriander Powder",
+      "Tomatoes",
+      "Raw cashews",
+      "Kasoori Methi",
+      "Cilantro",
+      "Mushrooms"
+    ]
+  },
+  {
+    "title": "Pizza Dough",
+    "total-time": "1.5 hours",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-pizza-dough.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/18/pizza-dough/",
+    "ingredients": [
+      "Active Dry Yeast",
+      "Sugar",
+      "Extra-virgin olive oil",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Red Lentil Quinoa Soup",
+    "total-time": "45 minutes",
+    "serves": "4-6",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-red-lentil-quinoa-soup.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/18/red-lentil-quinoa-soup/",
+    "ingredients": [
+      "Red Lentils",
+      "Quinoa",
+      "Onion",
+      "Tomato",
+      "Carrots",
+      "Celery",
+      "Garlic",
+      "Squash",
+      "Oil",
+      "Salt",
+      "Red Chili Powder",
+      "Water",
+      "Tomato Paste"
+    ]
+  },
+  {
+    "title": "Vegan Malai Kofta",
+    "total-time": "1 hour and 15 minutes",
+    "serves": "4-6",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-vegan-malai-kofta.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/18/vegan-malai-kofta/",
+    "ingredients": [
+      "Super firm tofu",
+      "Raw cashews",
+      "Potato",
+      "Red Chili Powder",
+      "Ginger",
+      "Cornstarch",
+      "Salt",
+      "Vegetable oil",
+      "Cumin Seeds",
+      "Onion",
+      "Ginger",
+      "Turmeric powder",
+      "Red Chili Powder",
+      "Coriander Powder",
+      "Tomatoes",
+      "Raw cashews",
+      "Kasoori Methi"
+    ]
+  },
+  {
+    "title": "Walnut Raisin Bread",
+    "total-time": "11 hours",
+    "makes": 1,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-18-walnut-raisin-bread.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/18/walnut-raisin-bread/",
+    "ingredients": [
+      "Unbleached Bread Flour",
+      "Whole Wheat Flour",
+      "Salt",
+      "Instant Yeast",
+      "Cool water",
+      "Dried cranberries",
+      "Raisins"
+    ]
+  },
+  {
+    "title": "Eggplant Parmesan",
+    "total-time": "1 hour",
+    "serves": "4-6",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-21-eggplant-parmesan.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/21/eggplant-parmesan/",
+    "ingredients": [
+      "Eggplants",
+      "Salt",
+      "Tomato Sauce",
+      "Mozzarella Cheese"
+    ]
+  },
+  {
+    "title": "Vegetable Cheese Sandwich",
+    "total-time": "20 minutes",
+    "makes": 4,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-22-vegetable-cheese-sandwich.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/22/vegetable-cheese-sandwich/",
+    "ingredients": [
+      "Bread slices",
+      "Butter",
+      "Mozzarella Cheese",
+      "Bellpepper",
+      "Tomato",
+      "Onion",
+      "Cucumber",
+      "Cilantro",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Braided Bread Sticks",
+    "total-time": "25 minutes",
+    "makes": 8,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-23-braided-bread-sticks.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/23/braided-bread-sticks/",
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Baking Powder",
+      "Salt",
+      "Milk",
+      "Garlic Salt",
+      "Basil"
+    ]
+  },
+  {
+    "title": "Gnocchi",
+    "total-time": "45 minutes",
+    "serves": "4-6",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-23-gnocchi.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/23/gnocchi/",
+    "ingredients": [
+      "Gnocchi",
+      "Oil",
+      "Onion",
+      "Bellpepper",
+      "Mushrooms",
+      "Squash",
+      "Carrot",
+      "Garlic",
+      "Pasta Sauce"
+    ]
+  },
+  {
+    "title": "Sugar Cookies",
+    "total-time": "1 hour",
+    "makes": 40,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-23-sugar-cookies.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/23/sugar-cookies/",
+    "ingredients": [
+      "Unsalted Butter",
+      "White Sugar",
+      "Vanilla Extract",
+      "Milk",
+      "All-purpose flour",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Tacos",
+    "total-time": "45 minutes",
+    "serves": "4-6",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-23-tacos.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/23/tacos/",
+    "ingredients": [
+      "Taco Shells",
+      "Salsa",
+      "Red Kidney Beans",
+      "Onions",
+      "Tomato",
+      "Cucumbers",
+      "Carrots",
+      "Lettuce",
+      "Bellpepper",
+      "Taco Seasoning",
+      "Oil",
+      "Salt / Pepper"
+    ]
+  },
+  {
+    "title": "Chia Pudding",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-25-chia-pudding.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/25/chia-pudding/",
+    "ingredients": [
+      "Coconut Milk",
+      "Chia Seeds",
+      "Honey",
+      "Pure vanilla extract",
+      "Salt"
+    ]
+  },
+  {
+    "title": "Acorn Squash with Quinoa",
+    "total-time": "45 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-27-acorn-squash-with-quinoa.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/27/acorn-squash-with-quinoa/",
+    "ingredients": [
+      "Acorn Squash",
+      "Olive Oil"
+    ]
+  },
+  {
+    "title": "Burrito Bowl",
+    "total-time": "45 minutes",
+    "serves": "4-6",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-27-burrito-bowl.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/27/burrito-bowl/",
+    "ingredients": [
+      "Brown Rice",
+      "Onion",
+      "Bellpepper",
+      "Corn",
+      "Oil",
+      "Salt",
+      "Black Beans",
+      "Red Chili Powder",
+      "Salsa",
+      "Guacamole",
+      "Sour Cream"
+    ]
+  },
+  {
+    "title": "Falafel",
+    "total-time": "9 hours",
+    "serves": "4-6",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-27-falafel.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/27/falafel/",
+    "ingredients": [
+      "Olive oil",
+      "Chickpeas",
+      "Red Onion",
+      "Cilantro",
+      "Garlic",
+      "Salt",
+      "Red Chili Powder",
+      "Onions",
+      "Tomato",
+      "Cucumbers",
+      "Carrots",
+      "Lettuce"
+    ]
+  },
+  {
+    "title": "Udon Noodles",
+    "total-time": "1 hour",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-28-udon-noodles.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/28/udon-noodles/",
+    "ingredients": [
+      "Soy Sauce",
+      "Sugar",
+      "Oil",
+      "Garlic",
+      "Ginger",
+      "Tamarind paste",
+      "Broccoli",
+      "Bellpepper",
+      "Mushrooms",
+      "Carrot",
+      "Green Onions",
+      "Oil",
+      "Precooked Udon noodles packet"
+    ]
+  },
+  {
+    "title": "Kala Chana",
+    "total-time": "1 hour + 8 hours",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-29-kala-chana.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/29/kala-chana/",
+    "ingredients": [
+      "Black Chickpeas",
+      "Water",
+      "Oil",
+      "Cumin Seeds",
+      "Onion",
+      "Tomato",
+      "Ginger garlic paste",
+      "Water",
+      "Dry mango powder",
+      "Cilantro",
+      "Coriander powder",
+      "Red chili powder",
+      "Turmeric powder"
+    ]
+  },
+  {
+    "title": "Aloo Paratha",
+    "total-time": "1 hour ",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-12-30-aloo-paratha.jpg",
+    "link": "https://jainrecipes.github.io/2020/12/30/aloo-paratha/",
+    "ingredients": [
+      "Potato",
+      "Red Chili Powder",
+      "Salt",
+      "Turmeric powder",
+      "Dry mango powder",
+      "Coriander leaves",
+      "Ghee",
+      "Wheat flour"
+    ]
+  },
+  {
+    "title": "Whole Moong",
+    "total-time": "1 hour",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-03-05-wholemoong.jpg",
+    "link": "https://jainrecipes.github.io/2021/03/05/whole-moong/",
+    "ingredients": [
+      "Whole Moong",
+      "Water",
+      "Oil",
+      "Cumin Seeds",
+      "Tomato",
+      "Ginger garlic paste",
+      "Dry mango powder",
+      "Cilantro",
+      "Coriander powder",
+      "Red chili powder",
+      "Turmeric powder"
+    ]
+  },
+  {
+    "title": "Homemade Icecream",
+    "total-time": "10 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2022-01-16-homemade-ice-cream.jpg",
+    "link": "https://jainrecipes.github.io/2021/05/12/homemade-icecream/",
+    "ingredients": [
+      "Heavy Cream",
+      "Condensed Milk",
+      "Vanilla Extract"
+    ]
+  },
+  {
+    "title": "Rava Idli",
+    "total-time": "45 minutes",
+    "makes": 12,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2022-01-16-rava-idli.jpg",
+    "link": "https://jainrecipes.github.io/2021/05/12/rava-idli/",
+    "ingredients": [
+      "Seminola",
+      "Salt",
+      "Yogurt",
+      "Water"
+    ]
+  },
+  {
+    "title": "Rava Uttapam",
+    "total-time": "30 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2022-01-16-rava-uttapam.jpg",
+    "link": "https://jainrecipes.github.io/2021/05/12/rava-uttapam/",
+    "ingredients": [
+      "Seminola",
+      "Salt",
+      "Yogurt",
+      "Water",
+      "Grated Carrots"
+    ]
+  },
+  {
+    "title": "Split green moong dal",
+    "total-time": "30 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-07-25-split-green-moong-dal.jpg",
+    "link": "https://jainrecipes.github.io/2021/07/25/split-green-moong/",
+    "ingredients": [
+      "Split moong",
+      "Water",
+      "Oil",
+      "Cumin Seeds",
+      "Tomato",
+      "Cilantro",
+      "Red chili powder",
+      "Turmeric Powder"
+    ]
+  },
+  {
+    "title": "Toor dal",
+    "total-time": "30 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-07-25-toor-dal.jpg",
+    "link": "https://jainrecipes.github.io/2021/07/25/toor-dal/",
+    "ingredients": [
+      "Toor Lentils",
+      "Water",
+      "Oil",
+      "Cumin Seeds",
+      "Tomato",
+      "Cilantro",
+      "Red chili powder",
+      "Turmeric Powder"
+    ]
+  },
+  {
+    "title": "Aaloo subzi with gravy",
+    "total-time": "25 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-08-07-aaloo-subzi-with-gravy.jpg",
+    "link": "https://jainrecipes.github.io/2021/08/07/aaloo-subzi-with-gravy/",
+    "ingredients": [
+      "Oil",
+      "Cumin Seeds",
+      "Red Chili Powder",
+      "Turmeric Powder",
+      "Coriander Powder",
+      "Garam Masala",
+      "Asafoetida",
+      "Salt",
+      "Potatoes",
+      "Water"
+    ]
+  },
+  {
+    "title": "Whole Masoor dal",
+    "total-time": "35 minutes",
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2020-08-07-whole-masoor-dal.jpg",
+    "link": "https://jainrecipes.github.io/2021/08/07/whole-masoor-dal/",
+    "ingredients": [
+      "Whole Masoor",
+      "Water",
+      "Oil",
+      "Cumin Seeds",
+      "Tomato",
+      "Cilantro",
+      "Red chili powder",
+      "Turmeric Powder"
+    ]
+  },
+  {
+    "title": "Lemon Blueberry Bread",
+    "total-time": "1.5 hours",
+    "makes": 1,
+    "image": "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/2022-02-26-lemon-blueberry-bread.jpg",
+    "link": "https://jainrecipes.github.io/2022/02/26/lemon-blueberry-bread/",
+    "ingredients": [
+      "All Purpose Flour",
+      "Baking Powder",
+      "Salt",
+      " Yogurt",
+      "Granulated Sugar",
+      "Flax",
+      "Lemon/Orange Zest",
+      "Vanilla Extract",
+      "Oil"
+    ]
+  }
+]
