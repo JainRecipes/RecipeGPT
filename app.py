@@ -3,7 +3,7 @@ import json
 import script
 
 
-f = open('static/data/recipes.json')
+f = open('static/data/data.json')
 recipeData = json.load(f)
 
 def numberOfRecipes(data):
@@ -13,10 +13,11 @@ def numberOfRecipes(data):
 def findIngredients(data):
     all_ingredients = set()
     for recipe in data:
-        ingredients = recipe['ingredients']
-        for ingredient in ingredients:
-            lowercase_ingredient = ingredient.lower()
-            all_ingredients.add(lowercase_ingredient.capitalize())
+        ingredients = recipe.get('ingredients')
+        if ingredients:
+            for ingredient in ingredients:
+                lowercase_ingredient = ingredient.lower()
+                all_ingredients.add(lowercase_ingredient.capitalize())
         
     ingredients = list(all_ingredients)
     ingredients.sort()
