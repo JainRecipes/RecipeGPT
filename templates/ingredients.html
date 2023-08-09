@@ -5,24 +5,32 @@
 {% block content %}
 <!-- <script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.411/build/spline-viewer.js"></script>
 <spline-viewer url="https://prod.spline.design/Qdb2D4dGnCZo-iHu/scene.splinecode"></spline-viewer> -->
+<h1 class = "text-center">Ingredients</h1>
 
 <div class="container mt-4">
-    <h1 class = "text-center">Ingredients</h1>
-    <form>
-       <div class="align-self-center">
+    <form method="POST" action="/results" id="myform">
           {% for ingredient in ingredients %}
-          <div class="form-check form-check-inline text-center">
-             <input class="form-check-input" type="checkbox" value="{{ ingredient }}" id="{{ ingredient }}" name="{{ ingredient }}">
+          <div class="form-check form-check-inline">
+             <input class="form-check-input" type="checkbox" value="{{ ingredient }}" id="{{ ingredient }}" name="option">
              <label class="form-check-label" for="{{ ingredient }}">
              {{ ingredient|capitalize }}
              </label>
           </div>
-       </div>
        {% endfor %}
+       <input type="submit" class="btn btn-primary mt-3" value="Submit" disabled="disabled">
     </form>
  </div>
- <button type="submit" class="btn btn-primary mt-3">Submit</button>
 
+ <script>
+   $(function(){
+      $("#myform").on("change", "input", function(e){
+         status = ($("#myform").find("input:checked").length <= 3) ? "disabled" : "";
+         $("input[type='submit']").prop("disabled", status);
+      });
+   });
+</script>
+
+ 
 {% endblock %}
 
 

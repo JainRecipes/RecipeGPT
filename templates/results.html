@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<h1 class = "text-center">Based on your selection of...</h1>
+<h6 class = "text-center">{% for option in options %}
+{% if not loop.last or loop.first %}{{ option }}, {% elif not loop.first %}and {{option}}.{% endif %}
+{% endfor %}
+</h6>
+<h3 class = "text-center my-3">RecipeGPT recommends</h3>
+
+<div class="row row-cols-1 row-cols-md-4 g-4 mx-3 cards_landscape_wrap-2">
+    {% for item in recipes %}
+    <div class="col h-100">
+      <div class="card ">
+        <img src="{{ item['image'] }}" class="card-img-top img-fluid" alt="Image of {{ item['title'] }}">
+        <div class="mt-2">
+          <h5 class="card-title text-center">{{ item['title'] }}</h5>
+        </div>
+        <p class="mx-3">Ingredients:</p>
+
+        {% for ingredient in item['ingredients'] %}
+        {% if loop.index <= 5 %}
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">{{ ingredient }}</li>
+        </ul>
+        {% elif loop.last %}
+        <ul class="list-group list-group-flush">
+        <li class="list-group-item">And more...</li>
+        </ul>
+        {% endif %}
+        {% endfor %}
+        {% if 'serves' in item or 'makes' in item or 'total-time' in item %}
+        <div class="card-footer">
+          <small class="text-body-secondary">
+            {% if 'serves' in item %}
+            Serves {{ item['serves'] }} people.
+            {% elif 'makes' in item %}
+            Makes {{ item['makes'] }}.
+            {% endif %}
+
+            {% if 'total-time' in item %}
+            Total time: {{ item['total-time'] }}.
+            {% endif %}
+        </small>
+        </div>
+        {% endif %}
+
+        <a href="{{ item['link'] }}" class="btn btn-primary mx-3 my-3">Get Instructions ↗️</a>
+      </div>
+    </div>
+    {% endfor %}
+    
+  </div>
+<br>
+<h3 class = "text-center">ChatGPT recommends</h3>
+
+
+
+{% endblock %}

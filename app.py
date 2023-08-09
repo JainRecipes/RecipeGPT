@@ -1,6 +1,9 @@
-from flask import Flask, render_template, redirect, url_for, request
-import json
 import script
+import recipeGeneratorGPT
+from flask import Flask, render_template, redirect, url_for, request, jsonify
+import json
+import Levenshtein
+from fuzzywuzzy import fuzz
 
 
 f = open('static/data/data.json')
@@ -23,6 +26,44 @@ def findIngredients(data):
     ingredients.sort()
     return ingredients
 
+def group_similar_strings(strings_list, threshold=6):
+    groups = []
+    for string in strings_list:
+        matched = False
+        for group in groups:
+            for member in group:
+                if Levenshtein.distance(string.lower(), member.lower()) <= threshold:
+                    group.append(string)
+                    matched = True
+                    break
+        if not matched:
+            groups.append([string])
+    return groups
+
+def group_similar_strings2(strings_list, threshold=100):
+    groups = []
+    for string in strings_list:
+        matched = False
+        for group in groups:
+            for member in group:
+                if fuzz.partial_ratio(string, member) >= threshold:
+                    group.append(string)
+                    matched = True
+                    break
+        if not matched:
+            groups.append([string])
+    return groups
+
+def determineMatchingRecipes(options):
+    filtered_recipes = []
+
+    # Loop through the recipes and check if any checked option exists in the ingredients
+    for recipe in recipeData:
+        ingredients = recipe.get('ingredients', [])
+        if any(option in ingredients for option in options):
+            filtered_recipes.append(recipe)
+    print(filtered_recipes)
+    return filtered_recipes
 
 app = Flask(__name__)
 
@@ -40,22 +81,24 @@ def index():
 
 @app.route('/ingredients', methods=['GET', 'POST'])
 def ingredients():
-    if request.method == 'POST':
-        # Handle the POST request and redirect to ingredients.html
-        return redirect(url_for('results'))
-    else:
-        # Render the index.html template for the GET request
-        ingredientList = findIngredients(recipeData)
-        return render_template('ingredients.html', ingredients=ingredientList)
+    # Render the index.html template for the GET request
+    ingredientList = findIngredients(recipeData)
+    ingredient_groups = group_similar_strings2(ingredientList)
 
-@app.route('/results', methods=['GET', 'POST'])
+    unique_ingredients = [group[0] for group in ingredient_groups]
+
+    return render_template('ingredients.html', ingredients=unique_ingredients)
+
+@app.route('/results', methods=['POST'])
 def results():
-    if request.method == 'POST':
-        # Handle the POST request and redirect to ingredients.html
-        return redirect(url_for('results'))
-    else:
-        # Render the index.html template for the GET request
-        return redirect(url_for('index'))
+    checked_options=request.form.getlist('option')
+    #print("Checked options: ", checked_options)
+
+    recipesData=determineMatchingRecipes(checked_options)
+    recipeGeneratorGPT.generateGPTResponse(checked_options)
+    
+    return render_template('results.html', options=checked_options, recipes=recipesData)
+
 
 @app.route('/tomato', methods=['GET'])
 def tomato():
@@ -65,4 +108,5 @@ def tomato():
 
 
 if __name__ == '__main__':
+    script.fetch_markdown_files()
     app.run(debug=True)

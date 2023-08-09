@@ -114,6 +114,7 @@ def generateImageURL(imageData):
 
 def generateRecipeURL(filename):
     match = re.search(r'(\d{4})-(\d{2})-(\d{2})-(.*?)\.markdown', filename)
+    # convert between utc and etc
     if match:
         year, month, day, title = match.groups()
 
@@ -137,4 +138,3 @@ def writeJson(data):
     print("JSON data with arrays written to", file_path)
 
 
-fetch_markdown_files()
