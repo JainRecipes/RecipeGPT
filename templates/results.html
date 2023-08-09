@@ -54,7 +54,39 @@
     
   </div>
 <br>
-<h3 class = "text-center">ChatGPT recommends</h3>
+<h3 class = "text-center">The GPT-2 Model Recommends</h3>
+
+<div class="row row-cols-1 row-cols-md-4 g-4 mx-3 cards_landscape_wrap-2">
+    {% for item in gptSuggestions %}
+    <div class="col h-100">
+      <div class="card ">
+        <img src="{{ item['image'] }}" class="card-img-top img-fluid" alt="Image of {{ item['title'] }}"> 
+        <div class="mt-2">
+          <h5 class="card-title text-center">{{ item['title'] }}</h5>
+        </div>
+        <p class="mx-3">Ingredients:</p>
+
+        {% for ingredient in item['ingredients'] %}
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">{{ ingredient }}</li>
+        </ul>
+        {% endfor %}
+
+        <p class="mx-3">Instructions:</p>
+
+        {% for item in item['instructions'] %}
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">{{ item }}</li>
+        </ul>
+        {% endfor %}
+
+
+        <a href="{{ item['link'] }}" class="btn btn-primary mx-3 my-3">Get Instructions ↗️</a>
+      </div>
+    </div>
+    {% endfor %}
+    
+  </div>
 
 
 

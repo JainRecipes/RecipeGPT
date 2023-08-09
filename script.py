@@ -5,6 +5,7 @@ import os
 from dotenv import load_dotenv
 import markdown
 import re
+from datetime import datetime, timedelta
 
 f = open('static/data/data.json')
 recipeData = json.load(f)
@@ -70,6 +71,8 @@ def parseData(data, filename):
     serves_match = re.search(r'Serves (\d+-\d+)', data)
     image_match = re.search(r'image:\s+(.*?)(?=\s|$)', data)
 
+    
+
 
 
     if title_match:
@@ -83,7 +86,11 @@ def parseData(data, filename):
     if image_match:
         recipe_dict['image'] = generateImageURL(image_match.group(1))
     
-    recipe_dict['link'] = generateRecipeURL(filename)
+    date_line = re.search(r'^date:.*$', data, re.IGNORECASE | re.MULTILINE)
+
+    recipe_dict['date'] = adjust_date_with_offset(date_line.group())
+    print(recipe_dict['date'])
+    recipe_dict['link'] = generateRecipeURL(recipe_dict['date'], recipe_dict['title'])
 
     # Extract ingredients - some recpies have 2 tables...
     ingredients_match = re.findall(r'<p>\|\s*Ingredients\s*\|\s* Quantity\s*\|\s*(.*?)<\/p>', data, re.DOTALL)
@@ -112,11 +119,39 @@ def generateImageURL(imageData):
     url = "https://raw.githubusercontent.com/JainRecipes/JainRecipes.github.io/master/images/{}".format(imageData)
     return url
 
-def generateRecipeURL(filename):
-    match = re.search(r'(\d{4})-(\d{2})-(\d{2})-(.*?)\.markdown', filename)
+def adjust_date_with_offset(date_str):
+    date_parts = date_str.split()
+    offset_hours = int(date_parts[-1]) // 100  # Extracting hours from the offset
+    offset_minutes = int(date_parts[-1]) % 100  # Extracting minutes from the offset
+    offset = timedelta(hours=offset_hours, minutes=offset_minutes)
+    
+    date_time_str = " ".join(date_parts[1:3])
+    date_time_obj = datetime.strptime(date_time_str, "%Y-%m-%d %H:%M:%S") 
+    
+    if date_parts[-2] != "-":
+        adjusted_date = date_time_obj - offset
+    else:
+        adjusted_date = date_time_obj + offset
+    
+    return adjusted_date.strftime("%Y-%m-%d %H:%M:%S")
+
+
+
+def generateRecipeURL(date, title):
+    #match = re.search(r'(\d{4})-(\d{2})-(\d{2})-(.*?)\.markdown', date)
+    #print(date)
+    match = re.match(r'(\d{4})-(\d{2})-(\d{2}) (\d{2}:\d{2}:\d{2})', str(date))
+
     # convert between utc and etc
+
+
     if match:
-        year, month, day, title = match.groups()
+        
+        year = match.group(1)
+        month = match.group(2)
+        day = match.group(3)
+
+        title = title.replace(" ", "-").lower()
 
         url = f"https://jainrecipes.github.io/{year}/{month}/{day}/{title}/"
     

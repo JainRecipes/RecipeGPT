@@ -62,7 +62,7 @@ def determineMatchingRecipes(options):
         ingredients = recipe.get('ingredients', [])
         if any(option in ingredients for option in options):
             filtered_recipes.append(recipe)
-    print(filtered_recipes)
+    #print(filtered_recipes)
     return filtered_recipes
 
 app = Flask(__name__)
@@ -95,9 +95,9 @@ def results():
     #print("Checked options: ", checked_options)
 
     recipesData=determineMatchingRecipes(checked_options)
-    recipeGeneratorGPT.generateGPTResponse(checked_options)
+    gptSuggestions = recipeGeneratorGPT.generateGPTResponse(checked_options)
     
-    return render_template('results.html', options=checked_options, recipes=recipesData)
+    return render_template('results.html', options=checked_options, recipes=recipesData, gptSuggestions=gptSuggestions)
 
 
 @app.route('/tomato', methods=['GET'])
