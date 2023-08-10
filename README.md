@@ -100,7 +100,10 @@ To setup on your local machine
    GITHUB_ACCESS_TOKEN = 
    SPOONACULAR_API_KEY = 
    ```
-
+5. Run the app
+```sh
+python app.py
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
