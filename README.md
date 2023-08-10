@@ -46,6 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+RecipeGPT is a project that can create recipe recommendations. Using Flask and an available Hugging Face GPT-2 Model that was trained on the RecipeNLG dataset, RecipeGPT will both provide the recommended JainRecipes along with an assortment of GPT-2 generated recipes. Users will be able to select what ingredients they have at home from a comprehensive list scraped from JainRecipes and will be provided with a personalized culinary recommendation.
 
 [![RecipeGPT Demo][demo-screenshot]](https://youtu.be/z_MJli3wCtY "RecipeGPT Demo")
 
@@ -59,6 +60,8 @@
 * [![Python][Python.com]][Python-url]
 * [![Flask][Flask.com]][Flask-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![Huggingface][Huggingface.com]][Huggingface-url]
+
 <br><br>
 Relevant libraries include:
 - flask
@@ -107,10 +110,6 @@ python app.py
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-
-
 <!-- LICENSE -->
 ## License
 
@@ -118,6 +117,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+Credit to Pratul Tandon for training the GPT-2 model for recipe generation based on the RecipeNLG dataset. More info here
+https://huggingface.co/pratultandon/recipe-nlg-gpt2
 
 
 
@@ -144,3 +145,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [product-gif]: static/media/RecipeGPTDemo.gif
 [demo-screenshot]: static/media/RecipeGPTScreenshot.png
+
+[huggingface.com]: https://img.shields.io/badge/HuggingFace%20GPT2%20Model-FFA500?style=for-the-badge&logo=huggingface&logoColor=black
+[huggingface-url]: https://huggingface.co/pratultandon/recipe-nlg-gpt2
