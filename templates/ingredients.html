@@ -7,6 +7,7 @@
 <spline-viewer url="https://prod.spline.design/Qdb2D4dGnCZo-iHu/scene.splinecode"></spline-viewer> -->
 <h1 class = "text-center">Ingredients</h1>
 
+
 <div class="container mt-4">
     <form method="POST" action="/results" id="myform">
           {% for ingredient in ingredients %}
@@ -17,16 +18,37 @@
              </label>
           </div>
        {% endfor %}
-       <input type="submit" class="btn btn-primary mt-3" value="Submit" disabled="disabled">
+       <input id = "submitButton" type="submit" class="btn btn-primary mt-3" value="Submit" disabled="disabled">
     </form>
  </div>
-
+ <div class="loading-overlay" id="loadingOverlay">
+   <img src="../static/media/loading.gif" alt="Loading" class="loading-gif">
+</div>
  <script>
    $(function(){
       $("#myform").on("change", "input", function(e){
          status = ($("#myform").find("input:checked").length <= 3) ? "disabled" : "";
          $("input[type='submit']").prop("disabled", status);
       });
+   });
+
+   function showLoading() {
+        var loadingOverlay = document.getElementById("loadingOverlay");
+        loadingOverlay.style.display = "flex";
+    }
+
+    // Function to hide the loading overlay
+    function hideLoading() {
+        var loadingOverlay = document.getElementById("loadingOverlay");
+        loadingOverlay.style.display = "none";
+    }
+
+    // Call the showLoading function when the submit button is clicked
+    var submitButton = document.getElementById("submitButton");
+    var myform = document.getElementById("myform");
+        submitButton.addEventListener("click", function() {
+            showLoading();
+            myform.submit(); // Submit the form
    });
 </script>
 
